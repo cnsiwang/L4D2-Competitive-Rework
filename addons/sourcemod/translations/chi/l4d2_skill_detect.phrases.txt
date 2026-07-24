@@ -205,7 +205,7 @@
 		"chi"		"被携带"
 	}
     // SI clears    (cleartimeA = pummel/pounce/ride/choke, cleartimeB = tongue drag, charger carry)
-	"SIClear"
+		"SIClear"
 	{
         "#format"   "{1:N},{2:N},{3:N},{4:s},{5:.2f}" // 1:attacker 2:pinVictim 3:victim 4:g_csSIClassName[zombieClass] 5:fClearTime
 		"chi"		"{olive}{1}{default} 只用了 {blue}{5}秒{default} 杀死了 {olive}{3}{default} 的 {4}， 解控了 {olive}{2}{default} "
